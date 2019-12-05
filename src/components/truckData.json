@@ -1,0 +1,49 @@
+[
+    {
+        "id":"1",
+        "name":"Mercedes Truck",
+        "number":"UK07 0112",
+        "location":{"lat":24.879999,"lng":74.629997},
+        "status":"Good"
+    },
+    {
+        "id":"2",
+        "name":"WagonR 2978",
+        "number":"",
+        "location":{"lat":16.994444,"lng":73.300003},
+        "status":"Danger"
+    },
+    {
+        "id":"3",
+        "name":"UO11T-5506",
+        "number":"",
+        "location":{"lat":24.794500,"lng":73.055000},
+        "status":"Warning"
+    },
+    {
+        "id":"4",
+        "name":"UP80CT-0990",
+        "number":"",
+        "location":{"lat":16.166700,"lng":74.833298},
+        "status":"Good"
+    },
+    {
+        "id":"5",
+        "name":"UP80 CJ 70 8814",
+        "number":"",
+        "location":{"lat":26.850000,"lng":80.949997},
+        "status":"None"
+    },{
+        "id":"6",
+        "name":"Mercedes Truck",
+        "number":"UK07 0112",
+        "location":{"lat":26.850000,"lng":80.949997},
+        "status":"Good"
+    },{
+        "id":"7",
+        "name":"Mercedes Truck",
+        "number":"UK20 9977",
+        "location":{"lat":26.850000,"lng":80.949997},
+        "status":"None"
+    }
+]
